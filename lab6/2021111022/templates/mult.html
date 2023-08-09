@@ -1,0 +1,24 @@
+<html lang="en">
+
+<body background="background.webp">
+    <h1>
+        <center>
+            <br>
+            Hello! I am Sai Asrith
+            <br><br>
+            *******This is Multiplication page!*******<br><br>
+            <form action="/calc/multiply" method="post">
+                <input type="number" id="num1" name="num1" placeholder="Enter the number">
+                <br><br>
+                <input type="number" id="num2" name="num2" placeholder="Enter the number">
+                <br><br>
+                <button type="submit">Submit</button>
+            </form>
+            {%if val%}
+            <p>The final value of the operation is {{val}}</p>
+            {%endif%}
+        </center>
+    </h1>
+</body>
+
+</html>

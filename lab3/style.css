@@ -1,0 +1,55 @@
+#horizontal-line{
+    width: 113rem;
+    height: 0.063rem;
+    background-color: pink;
+}
+#content{
+    background-color: black;
+}
+#box1{
+    color: white;
+    height: 22rem;
+    font-size: 1.563rem;
+    width: 37.5rem;
+}
+img {
+    height: 31rem;
+    width: 31rem;
+}
+#box2{
+    color: white;
+    height: 3.75rem;
+    font-size: 2.188rem;
+    width: 37.5rem;
+}
+#box3{
+    color: white;
+    height: 7.813rem;
+    font-size: 1.563rem;
+    width: 37.5rem;
+}
+#box4{
+    color: white;
+    height: 7.813rem;
+    font-size: 1.563rem;
+    width: 37.5rem;
+}
+#head1{
+    color: pink;
+    font-size: 2.188rem;
+}
+#head2{
+    color: pink;
+    font-size: 2.188rem;
+}
+#head3{
+    color: pink;
+    font-size: 2.188rem;
+}
+.box{
+    display: flex;
+}
+#foot{
+    color: white;
+    font-size: 1rem;
+}
