@@ -1,0 +1,26 @@
+#content{
+    background-color: palegreen;
+}
+table{
+    width: 40rem;
+    height: 20rem;
+}
+th{
+    text-align: center;
+    font-size: 2rem;
+}
+td{
+    text-align: center;
+    font-size: 2rem;
+}
+#head{
+    font-size: 5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+table, th, td{
+    border:1px solid #000;
+}
+#foot{
+    color: black;
+    font-size: 1rem;
+}
